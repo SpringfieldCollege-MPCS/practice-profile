@@ -17,6 +17,8 @@ setup(
        "pytest",
        "pytest-benchmark",
        "Faker",
-       "rich"
+       "rich",
+       "snakeviz",
+       "numpy"
     ]
 )
